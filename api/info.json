@@ -1,0 +1,190 @@
+{
+  "cards": [
+    {
+        "_id": 1,
+        "name": "Sales",
+        "icon": "bi bi-cart",
+        "amount": 87,
+        "percentage": 0.05,
+        "active": true
+
+    },
+    {
+         "_id": 2,
+        "name": "Revenue",
+        "icon": "bi bi-currency-dollar",
+        "amount": 67,
+        "percentage": 0.01,
+        "active": false
+
+    },
+    {
+         "_id": 3,
+        "name": "Customers",
+        "icon": "bi bi-people",
+        "amount": 54,
+        "percentage": 0.06,
+        "active": false
+
+    }
+    
+],
+  "news": [
+    {
+        "id": 1,
+        "img": "",
+        "title": " Vivamus lacinia odio",
+        "subtitle": "Nullam suscipit, massa ac suscipit blandit",
+        "category": "abc"
+    },
+    {
+        "id": 2,
+        "img": "",
+        "title": "Sed in libero vitae sapien",
+        "subtitle": "Curabitur tincidunt, libero nec interdum dictum",
+        "category": "abc"
+    },
+    {
+        "id": 3,
+        "img": "",
+        "title": "Pellentesque habitant morbi",
+        "subtitle": "Aenean faucibus, libero sed gravida blandit",
+        "category": "abc"
+    },
+    {
+        "id": 4,
+        "img": "",
+        "title": "Duis ac gravida velit",
+        "subtitle": "Donec bibendum, erat ut laoreet varius",
+        "category": "abc"
+    },
+    {
+        "id": 5,
+        "img": "",
+        "title": "Fermentum nisl nulla a justo",
+        "subtitle": "Nulla facilisi",
+        "category": "abc"
+    }
+    
+],
+"topselling": [
+    {
+        "id": 1,
+        "preview": "",
+        "name": "Fermentum nisl nulla a justo",
+        "price": 64,
+        "sold": 102
+    },
+    {
+        "id": 2,
+        "preview": "",
+        "name": "Fermesto",
+        "price": 50,
+        "sold": 80
+    },
+    {
+        "id": 3,
+        "preview": "",
+        "name": "Nulla a justo",
+        "price": 120,
+        "sold": 79
+    },
+    {
+        "id": 4,
+        "preview": "",
+        "name": "Hermentumsto",
+        "price": 24,
+        "sold": 89
+    },
+    {
+        "id": 5,
+        "preview": "",
+        "name": "Jermenusto",
+        "price": 45,
+        "sold": 113
+    }
+],
+"recentsales": [
+    {
+        "id": 1,
+        "number": "345",
+        "customer": "Brandy Jake",
+        "product": "Sed tincidunt",
+        "price": 64,
+        "status": "Approved"
+    },
+    {
+        "id": 2,
+        "number": "245",
+        "customer": "Bob Jake",
+        "product": "Tincidunt",
+        "price": 84,
+        "status": "Pending"
+    },
+    {
+        "id": 3,
+        "number": "405",
+        "customer": "Brandy George",
+        "product": "Tyucidunt",
+        "price": 27,
+        "status": "Approved"
+    },
+    {
+        "id": 4,
+        "number": "245",
+        "customer": "James Jeler",
+        "product": "Sedincidunt",
+        "price": 90,
+        "status": "Rejected"
+    },
+    {
+        "id": 5,
+        "number": "234",
+        "customer": "Mathew Jacobs",
+        "product": "Seidunt",
+        "price": 54,
+        "status": "Approved"
+    }
+
+],
+"recentactivity": [
+    {
+        "id": 1,
+        "time": "32 min",
+        "color": "text-success",
+        "content": "Pellentesque habitant morbi",
+        "highlight": "Felis massa ultricies libero"
+    },
+    {
+        "id": 2,
+        "time": "40 min",
+        "color": "text-primary",
+        "content": "Habitant morbi",
+        "highlight": "Ultricies libero"
+    },
+    {
+        "id": 3,
+        "time": "1 hr",
+        "color": "text-danger",
+        "content": "Ellentesquehabitant morbi",
+        "highlight": "Libero"
+    },
+    {
+        "id": 4,
+        "time": "50 min",
+        "color": "text-info",
+        "content": " Morbi on interdum odio interdum",
+        "highlight": "Massa libero"
+    },
+    {
+        "id": 5,
+        "time": "56 min",
+        "color": "text-muted",
+        "content": " Massa libero morbi on interdum odio interdum",
+        "highlight": ""
+    }
+    
+]
+
+
+}
