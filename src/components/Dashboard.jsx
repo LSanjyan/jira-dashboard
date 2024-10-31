@@ -2,6 +2,9 @@ import React, {useState,useEffect } from 'react';
 import './dashboard.css'
 import Cards from './Cards';
 import Reports from './Reports'
+import RecentSales from './RecentSales';
+import TopSelling from './TopSelling';
+import RecentActivity from './RecentActivity';
 
 function Dashboard() {
     const [cards, setCards] = useState([])
@@ -31,12 +34,20 @@ function Dashboard() {
                 <div className='col-12'>
                     <Reports />
                 </div>
-
+            <div className="col-12">
+                <RecentSales />
+                </div>
+                <div className="col-12">
+                    <TopSelling />
+                </div>
         
 
             </div>
         </div>
-        <div className="col-lg-4"></div>
+        <div className="col-lg-4">
+        <RecentActivity/>
+        </div>
+       
     </div>
    </section>
   )
