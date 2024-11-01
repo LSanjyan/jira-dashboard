@@ -19,6 +19,7 @@
     bottom: 0;
     background-color: #eceefe;
 }
+
 .dashboard .activity .activity-item .activity-badge {
     margin-top: 3px;
     z-index: 1;
@@ -28,8 +29,8 @@
     flex-shrink: 0;
     border: 3px solid #fff;
     flex-grow: 0;
-
 }
+
 .dashboard .activity .activity-item .activity-content {
     padding-left: 10px;
     padding-bottom: 20px;

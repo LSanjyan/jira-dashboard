@@ -33,36 +33,37 @@
     {
         "id": 1,
         "img": "",
-        "title": " Vivamus lacinia odio",
-        "subtitle": "Nullam suscipit, massa ac suscipit blandit",
+        "title": "Vivamus lacinia odio",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
         "category": "abc"
     },
+    
     {
         "id": 2,
         "img": "",
         "title": "Sed in libero vitae sapien",
-        "subtitle": "Curabitur tincidunt, libero nec interdum dictum",
+        "subtitle": "Curabitur tincidunt, libero nec interdum dictum exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
         "category": "abc"
     },
     {
         "id": 3,
         "img": "",
         "title": "Pellentesque habitant morbi",
-        "subtitle": "Aenean faucibus, libero sed gravida blandit",
+        "subtitle": "Aenean faucibus, libero sed gravida blandit exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
         "category": "abc"
     },
     {
         "id": 4,
         "img": "",
         "title": "Duis ac gravida velit",
-        "subtitle": "Donec bibendum, erat ut laoreet varius",
+        "subtitle": "Donec bibendum, erat ut laoreet varius exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
         "category": "abc"
     },
     {
         "id": 5,
         "img": "",
         "title": "Fermentum nisl nulla a justo",
-        "subtitle": "Nulla facilisi",
+        "subtitle": "Nulla facilisi exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
         "category": "abc"
     }
     
