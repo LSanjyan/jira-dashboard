@@ -8,7 +8,7 @@ Users can see dashboard which includes charts of reports, activities, website tr
 
 # Functionality Descriptions
 
-The dashboard includes a left-side navigation menu that can be opened and closed. The first three items in the navigation menu have dropdown features.
+The dashboard includes a left-side sidebar menu that can be opened and closed. The first three items in the sidebar menu have dropdown features.
 There is a search bar, and when you hover over it, a tooltip will display to explain its function. Similarly, when you hover over the search icon, it will show what it does.
 The dashboard also features notifications, messages, and profile options. When you click on them, a dropdown menu appears, providing additional details.
 In the main dashboard area, there are charts, each with a filter feature that appears as a mini dropdown menu.
@@ -57,14 +57,15 @@ github repo: https://github.com/LSanjyan/jira-dashboard
 Roboto & Nunito Google fonds are used.
 
 # Here is the scheme of built components:
-![Screenshot 2024-11-05 181857](https://github.com/user-attachments/assets/167fff0e-9773-405e-aba0-8e07f56b25f9)
 
+![Screenshot 2024-11-05 181857](https://github.com/user-attachments/assets/167fff0e-9773-405e-aba0-8e07f56b25f9)
 
 # URL link for app:
 
 https://jira-dashboard-4.onrender.com/
 
 ## Image:
+
 ![Screenshot 2024-11-05 180639](https://github.com/user-attachments/assets/457d9d17-325a-4a3e-bc95-b569aaa31913)
 
 # Contributor:
