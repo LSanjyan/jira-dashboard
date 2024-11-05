@@ -57,7 +57,7 @@ github repo: https://github.com/LSanjyan/jira-dashboard
 Roboto & Nunito Google fonds are used.
 
 # Here is the scheme of built components:
-![Screenshot 2024-11-04 143850](https://github.com/user-attachments/assets/4d7c8b00-e15d-4e40-9a78-550aa009118d)
+![Screenshot 2024-11-05 181857](https://github.com/user-attachments/assets/167fff0e-9773-405e-aba0-8e07f56b25f9)
 
 
 # URL link for app:
