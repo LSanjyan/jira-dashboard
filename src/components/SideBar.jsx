@@ -34,7 +34,7 @@ function SideBar() {
                 </li>
                 <li>
                     <a href='#'>
-                        <i bi bi-circle></i>
+                        <i className='bi bi-circle'></i>
                         <span>Suppliers</span>
                     </a>
                 </li>

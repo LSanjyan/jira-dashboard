@@ -12,6 +12,7 @@
     scrollbar-color: #aab7cf transparent;
     box-shadow: 0px 0px 20px rgba(1, 41, 112, 0.1);
     background-color: #fff;
+    
 }
 @media (max-width: 1199px) {
     .sidebar {
@@ -69,7 +70,7 @@
     align-items: center;
     font-size: 15px;
     font-weight: 600;
-    color: #4154f1;
+    color: #111966;
     transition: 0.3;
     background: #f6f9ff;
     padding: 10px 15px;
@@ -77,15 +78,15 @@
 }
 .sidebar-nav .nav-link i {
     font-size: 16px;
-    margin-right: 10px;
-    color: #4154f1;
+    margin-right: 20px;
+    color: #111966;
 }
 .sidebar-nav .nav-link.collapsed {
     color: #012970;
     background: #fff;
 
 }
-.sidebar-nav .nav-link.nav-link.collapsed {
+.sidebar-nav .nav-link .nav-link.collapsed {
     color: #012970;
     background: #fff;
 }
@@ -95,7 +96,7 @@
 }
 
 .sidebar-nav .nav-link:hover {
-    color: #4154f1;
+    color: #6774e9;
     background: #f6f9ff;
 }
 
@@ -109,6 +110,14 @@
 }
 
 .sidebar-nav .nav-content {
+    display: none;
     padding: 5px 0 0 0;
     margin: 0;
+    list-style: none;
+}
+.sidebar-nav .nav-content.show {
+    display: block; 
+}
+.sidebar-nav .nav-content.collapse i{
+    margin-left: 10px;
 }

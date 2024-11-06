@@ -32,7 +32,7 @@
   "news": [
     {
         "id": 1,
-        "img": "",
+        "img": "../633.jpg",
         "title": "Vivamus lacinia odio",
         "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
         "category": "abc"
@@ -40,28 +40,28 @@
     
     {
         "id": 2,
-        "img": "",
+        "img": "../urban.webp",
         "title": "Sed in libero vitae sapien",
         "subtitle": "Curabitur tincidunt, libero nec interdum dictum exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
         "category": "abc"
     },
     {
         "id": 3,
-        "img": "",
+        "img": "../urban.jpg",
         "title": "Pellentesque habitant morbi",
         "subtitle": "Aenean faucibus, libero sed gravida blandit exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
         "category": "abc"
     },
     {
         "id": 4,
-        "img": "",
+        "img": "../urban1.jpg",
         "title": "Duis ac gravida velit",
         "subtitle": "Donec bibendum, erat ut laoreet varius exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
         "category": "abc"
     },
     {
         "id": 5,
-        "img": "",
+        "img": "../urban2.jpg",
         "title": "Fermentum nisl nulla a justo",
         "subtitle": "Nulla facilisi exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
         "category": "abc"
@@ -71,35 +71,35 @@
 "topselling": [
     {
         "id": 1,
-        "preview": "",
+        "preview": "../cloth1.jpg",
         "name": "Fermentum nisl nulla a justo",
         "price": 64,
         "sold": 102
     },
     {
         "id": 2,
-        "preview": "",
+        "preview": "../clothe2.jpg",
         "name": "Fermesto",
         "price": 50,
         "sold": 80
     },
     {
         "id": 3,
-        "preview": "",
+        "preview": "../clothe3.jpg",
         "name": "Nulla a justo",
         "price": 120,
         "sold": 79
     },
     {
         "id": 4,
-        "preview": "",
+        "preview": "../clothe4.png",
         "name": "Hermentumsto",
         "price": 24,
         "sold": 89
     },
     {
         "id": 5,
-        "preview": "",
+        "preview": "../clothe5.jpg",
         "name": "Jermenusto",
         "price": 45,
         "sold": 113
