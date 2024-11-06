@@ -28,19 +28,19 @@ function SideBar() {
             >
                 <li>
                     <a href='#'>
-                        <i className='bi bi-circle'></i>
+                        <i className='bi bi-circle' style={{ marginLeft: '10px' }}></i>
                         <span>Customers</span>
                     </a>
                 </li>
                 <li>
                     <a href='#'>
-                        <i className='bi bi-circle'></i>
+                        <i className='bi bi-circle' style={{ marginLeft: '10px' }}></i>
                         <span>Suppliers</span>
                     </a>
                 </li>
                 <li>
                     <a href='#'>
-                        <i className='bi bi-circle'></i>
+                        <i className='bi bi-circle' style={{ marginLeft: '10px' }}></i>
                         <span>Logistic</span>
                         </a>
                         </li>
