@@ -73,4 +73,4 @@ function NavNotice() {
   )
 }
 
-export default NavNotice
+export default NavNotice;
